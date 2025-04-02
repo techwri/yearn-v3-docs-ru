@@ -14,5 +14,3 @@
 - [glossary.md](glossary.md) — Глоссарий
 
 🧠 Автор: [techwri](https://github.com/techwri)
-
-📄 Лицензия: CC BY-SA 4.0
